@@ -1,5 +1,5 @@
 # project-todo-list
-- [ ] Exercicio de um projeto em JS para organização de tarefas, onde é possivel adicionar,marcar e excluir tarefas.
+- [ ] Exercicio de um projeto em JS para organização, onde é possivel adicionar, marcar e excluir tarefas.
 
 
 
